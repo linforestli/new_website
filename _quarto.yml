@@ -1,0 +1,22 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Linrong Li"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - portfolio.qmd
+      - href: resume - Linrong Li.pdf
+        text: Resume
+
+format:
+  html:
+    theme: journal
+    css: styles.css
+    toc: true
+
+editor: visual
+

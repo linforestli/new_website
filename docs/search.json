@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Linrong’s website",
+    "section": "",
+    "text": "Welcome! I am a student at the faculty of information at the University of Toronto. This website records my projects relating to data science.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "portfolio.html",
+    "href": "portfolio.html",
+    "title": "My Portfolio",
+    "section": "",
+    "text": "List:\n\nA fun of fun tea tasting day\nA research on Toronto’s homeless populatioin\n\nResume"
+  }
+]
