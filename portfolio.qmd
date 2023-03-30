@@ -4,7 +4,5 @@ title: "My Portfolio"
 
 List:
 
--   [A fun of fun tea tasting day](https://github.com/linforestli/fisher_tea_tasting)
--   [A research on Toronto's homeless populatioin](https://github.com/linforestli/toronto_homeless)
-
-Resume
+-   [Exploring American's Happiness Levels](https://github.com/julieenguyennn/An-Analysis-of-Happiness-in-the-America-post-COVID-19)
+-   [A research on Toronto's homeless population](https://github.com/linforestli/toronto_homeless)

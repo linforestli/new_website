@@ -3,5 +3,3 @@ title: "Linrong's website"
 ---
 
 Welcome! I am a student at the faculty of information at the University of Toronto. This website records my projects relating to data science.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
