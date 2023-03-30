@@ -3,3 +3,11 @@ title: "Linrong's website"
 ---
 
 Welcome! I am a student at the faculty of information at the University of Toronto. This website records my projects relating to data science.
+
+When I'm not hitting the books, you can find me doing a bunch of things I enjoy. I'm a huge movie buff and enjoy getting lost in different stories and perspectives. I'm also a big fan of bubble tea and love trying out new flavours and combinations. Photography is another hobby of mine, capturing memories and moments that are worth cherishing forever. I also love video games - Nintendo rules the ______ world.
+
+I love watching stand-up comedies. Laughing and having a good time with friends and family are important to me. Reading is also something I love doing in my spare time. I'm currently engrossed in the book *After the Quake* by Haruki Murakami. I believe that literature has the power to help us understand the world around us better.
+
+Being from Wuhan and studying in Toronto, I've had the opportunity to experience different cultures and meet people from diverse backgrounds. This has helped me to become more open-minded and adaptable in different situations.
+
+Thanks for checking out my website! Feel free to contact me if you have any questions or opportunities to discuss.
